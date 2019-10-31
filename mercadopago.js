@@ -263,7 +263,7 @@ function() {
                     }
                 })
             }, t.paymentMethods = l;
-            for (export in l) e[export] = l[export]
+            for (exports in l) e[exports] = l[exports]
         }(e, t),
         function(e, t) {
             function r(t) {
